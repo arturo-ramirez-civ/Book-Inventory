@@ -1,6 +1,6 @@
 Create a application logic that creates a book inventory catalog that can be modified by the user. 
 
-Book.java - Cretaes the book object
+Book.java - Creates the book object
 
 Inventory.java - Create an arraylist to store book objects and performs add, remove, find, and display functions.
 
